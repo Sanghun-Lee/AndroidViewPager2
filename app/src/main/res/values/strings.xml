@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ViewPager2</string>
+    <string name="title_basic">BasicViewPager2</string>
 </resources>

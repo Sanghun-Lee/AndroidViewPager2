@@ -15,3 +15,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "ViewPager2"
 include(":app")
+include(":app:basic")
+include(":feature")
+include(":data")
